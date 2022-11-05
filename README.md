@@ -8,7 +8,7 @@ This is a quick and basic guide to setting up a new SSD or hard drive inside of 
 
 You will need to SSH into your Proxmox host machine like below.
 
-    ssh <username>@<10.0.0.1> -p 22
+    ssh <username>@<10.0.0.2> -p 22
 
 ## **Viewing Disks On Machine**
 
